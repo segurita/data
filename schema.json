@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "/",
+  "type": "array",
+  "items": {
+    "id": "0",
+    "type": "object",
+    "properties": {
+      "share_price_soles": {
+        "id": "share_price_soles",
+        "type": "number"
+      },
+      "total_current_liabilities": {
+        "id": "total_current_liabilities",
+        "type": "integer"
+      },
+      "total_shares": {
+        "id": "total_shares",
+        "type": "number"
+      },
+      "total_liabilities": {
+        "id": "total_liabilities",
+        "type": "number"
+      },
+      "total_current_assets": {
+        "id": "total_current_assets",
+        "type": "integer"
+      },
+      "total_assets": {
+        "id": "total_assets",
+        "type": "number"
+      },
+      "net_income": {
+        "id": "net_income",
+        "type": "number"
+      },
+      "year": {
+        "id": "year",
+        "type": "integer"
+      },
+      "debt": {
+        "id": "debt",
+        "type": "integer"
+      }
+    }
+  }
+}
