@@ -20,5 +20,16 @@
     "share_price_soles": 2.42,
     "total_shares": 3784.146,
     "year": 2015
+  },
+  {
+    "total_assets": 76630.610,
+    "total_current_assets": 0,
+    "total_liabilities": 70736.443,
+    "total_current_liabilities": 0,
+    "debt": 0,
+    "net_income": 1006.244,
+    "share_price_soles": 3.6,
+    "total_shares": 3784.146,
+    "year": 2016
   }
 ]
